@@ -1,0 +1,30 @@
+{
+  "name": "rxjs-course",
+  "version": "1.0.0",
+  "description": "Learning about reactive programming",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseJaraba/rxjs-course.git"
+  },
+  "keywords": [
+    "RxJS"
+  ],
+  "author": "JoseJaraba <josem.jaraba@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoseJaraba/rxjs-course/issues"
+  },
+  "homepage": "https://github.com/JoseJaraba/rxjs-course#readme",
+  "dependencies": {
+    "rxjs": "^7.5.7",
+    "webpack": "^5.75.0",
+    "webpack-dev-server": "^4.11.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.0.0"
+  }
+}
